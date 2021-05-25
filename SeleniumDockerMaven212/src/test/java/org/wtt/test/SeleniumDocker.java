@@ -54,7 +54,7 @@ public class SeleniumDocker{
 		driver = new RemoteWebDriver(new URL("http://selenium.engazewell.com/wd/hub"), capabilities);
 		//System.setProperty("webdriver.chrome.driver","D:\\Drivers\\chrome driver\\chromedriver.exe");
 		//WebDriver driver2=new ChromeDriver();
-		System.out.println("driver loaded.........==========done changes======----------------......ra worst");
+		System.out.println("driver loaded.........==========new changes======----------------......ra worst");
 	}
 	
 	
