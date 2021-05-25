@@ -55,6 +55,7 @@ public class SeleniumDocker{
 		//System.setProperty("webdriver.chrome.driver","D:\\Drivers\\chrome driver\\chromedriver.exe");
 		//WebDriver driver2=new ChromeDriver();
 		System.out.println("driver loaded.........==========how much time will u take ra worst fellow======----------------......ra worst");
+		System.out.println("driver");
 	}
 	
 	
